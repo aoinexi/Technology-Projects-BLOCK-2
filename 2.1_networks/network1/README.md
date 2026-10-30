@@ -63,9 +63,11 @@ To assign IPs:
 
 ## 🧠 Reflection Questions
 1. What would happen if two PCs had the same IP address?
+   They could not communicate with each other directly.
 2. Why do we use a switch instead of connecting PCs directly?
+   There would be no network between PCs
 3. What does the subnet mask `255.255.255.0` mean?
-
+   To allow multiple hosts in a subnet
 ---
 
 ## 🏁 Completion Criteria
