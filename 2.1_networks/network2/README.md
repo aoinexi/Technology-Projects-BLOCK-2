@@ -75,8 +75,11 @@ The Library Building is being upgraded with network automation. Instead of manua
 
 ## 🧠 Reflection Questions
 1. What are the advantages of using DHCP over static IPs?
+Easy set of IP addresses to manage with other PCs
 2. How does DNS improve usability in a network?
+Expected connectivity with user settings.
 3. What happens if the DHCP server goes offline?
+Network stops working and cannot connect to each other
 
 ---
 
