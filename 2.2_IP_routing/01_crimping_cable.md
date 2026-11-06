@@ -8,6 +8,16 @@ Describe how you:
 - Inserted & crimped the connector  
 
 _Write your explanation here:_
+Cut the rubber outer shell of the ethernet cable and leave it at a length, and the wires arranged starting from left to right, 
+white and orange, 
+orange,
+white and green,
+blue,
+white and blue,
+green,
+white and brown,
+brown.
+And inserted into the ethernet head in the correct order and crimped it with a tool.
 
 ## 1.2 Evidence (Required)
 Upload **photos or screenshots** showing each of the following:
