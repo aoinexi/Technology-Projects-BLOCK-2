@@ -18,7 +18,7 @@ auth = {
 
 publish.multiple(
 	msg,
-	hostname="HOSTNAME",
+	hostname="rbbfb765.ala.eu-central-1.emqxsl.com",
 	port=8883,
 	auth=auth
 	tls=sslSettings,
