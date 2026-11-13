@@ -25,7 +25,8 @@ The process is based on HiveMQ’s official “Getting Started” documentation.
 
 HiveMQ automatically creates an **Organization** for you.
 
-> Insert here a screeshot of your landing page.
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c97b02b-893a-43fe-a725-23728fc3bdc6" />
+
 ---
 
 ## 2. Create a New HiveMQ Cloud Cluster
