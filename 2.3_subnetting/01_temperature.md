@@ -9,6 +9,8 @@ vcgencmd measure_temp
 ```
 
 Submit an image with the 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/59466790-3e77-41ba-8d6d-cb5eda49c80b" />
+
 
 ## Do the same in python
 
